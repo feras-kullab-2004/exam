@@ -1,2 +1,0 @@
-com.example.exam:layout/activity_main = 0x7f020000
-com.example.exam:id/tvTitle = 0x7f010000
